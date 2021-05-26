@@ -1,8 +1,8 @@
-## Introduction
+# Introduction
 
 In software engineering, it happens that we need to automate some tasks, very often tests; for the automation of UI tests on mobile applications we use appium. In this note, we will explain our choice for this solution, how to install it and demonstrate some tasks we can do with this tool.
 
-### What is Appuim ?
+## What is Appuim ?
 
 **Appium** is an open-source tool for test automation on **_native_** application( written with a collection of tools dedicated to a particular plateforme calles **SDKs** like `Android SDK` and `iOS SDK`), **_Hybrid_** appapplication (which are application that cobines elements of both natives applications and web applications) and mobile web application( basicaly web applicaion runing on mobile using browser). Appium is _cross platform_ that mean it allows you to write tests for both Android a iOS using the same API.
 
@@ -38,3 +38,5 @@ Appium on iOS from (black box) [ [Edukera](https://www.edureka.co/blog/appium-ar
 Appium on Android and iOS from (white box) [ [digital.ai](https://digital.ai/catalyst-blog/comparing-and-combining-web-and-mobile-test-automation-drivers) ]
 
 ---
+
+[Next](./install_appium.md)
