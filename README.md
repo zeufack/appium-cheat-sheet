@@ -7,3 +7,4 @@ In my learning of appium, I have gone through the documentation and a set of tut
 - [Meet with appium](./cheat-sheet-parts/meet_appium.md)
 - [Install Appium](./cheat-sheet-parts/install_appium.md)
 - [First Stape with Appium](./cheat-sheet-parts/first_stape.md)
+- [Utilities](./utilities.md)
